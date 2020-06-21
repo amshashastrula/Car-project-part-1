@@ -1,2 +1,2 @@
-# Car-project-part-1
-car project part 1
+# p5.play-boilerplate
+Boiler plate for p5.play
